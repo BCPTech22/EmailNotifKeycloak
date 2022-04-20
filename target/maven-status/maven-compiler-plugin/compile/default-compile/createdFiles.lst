@@ -1,0 +1,4 @@
+demo\keycloak\auth\notify\LoginNotifyEmailMessages.class
+META-INF\services\org.keycloak.authentication.AuthenticatorFactory
+demo\keycloak\auth\notify\LoginNotifyEmailAuthenticatorFactory.class
+demo\keycloak\auth\notify\LoginNotifyEmailAuthenticator.class
